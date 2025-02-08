@@ -21,7 +21,7 @@
 
 ## 📫 Contacto
 📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-🐦 **Twitter:** [@sujelDajerH](https://twitter.com/tu_usuario](https://x.com/sujelDajerH)  
+🐦 **Twitter:** [@sujelDajerH](https://x.com/sujelDajerH)  
 🔗 **LinkedIn:** [linkedin.com/in/tu_usuario](https://linkedin.com/in/tu_usuario)
 
 ---
