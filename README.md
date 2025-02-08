@@ -22,9 +22,9 @@
 
 
 ## 📫 Contacto
-📧 **Email:** [tuemail@ejemplo.com](mailto:dajer.dev@gmail.com)  
+📧 **Email:** [dajer.dev@gmail.com](mailto:dajer.dev@gmail.com)  
 🐦 **Twitter:** [@sujelDajerH](https://x.com/sujelDajerH)  
-🔗 **LinkedIn:** [linkedin.com/in/tu_usuario](https://linkedin.com/in/tu_usuario)
+🔗 **LinkedIn:** [Sujel Dajer](https://www.linkedin.com/in/sujel-dajer-8360a8245/)
 
 ---
 
