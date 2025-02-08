@@ -17,11 +17,11 @@
 
 ## 📌 Proyectos Destacados
 🔹 **[Mi Portafolio](https://porf-dajer.vercel.app/)** 👀  
-🔹 (Agrega aquí más proyectos que tengas en tu GitHub)
+🔹 **[Mirthax](https://mirthax.vercel.app/)**
 
 ## 📫 Contacto
 📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-🐦 **Twitter:** [@tu_usuario](https://twitter.com/tu_usuario)  
+🐦 **Twitter:** [@sujelDajerH]([https://twitter.com/tu_usuario](https://x.com/sujelDajerH))  
 🔗 **LinkedIn:** [linkedin.com/in/tu_usuario](https://linkedin.com/in/tu_usuario)
 
 ---
